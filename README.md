@@ -6,7 +6,7 @@ jdrivesync is a simple command line tool that synchronizes a local file system s
 
 The website is located at [http://siom79.github.io/jdrivesync/](http://siom79.github.io/jdrivesync).
 
-## Development
+## Development 
 
 If you want to contribute, you can fork the project into your github account, create a feature branch
 and later submit your changes in form of a pull request.
